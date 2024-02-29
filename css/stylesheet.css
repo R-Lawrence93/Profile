@@ -1,0 +1,76 @@
+html {
+    scroll-behavior: smooth;
+}
+    
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+
+}
+header {
+    
+    color: black;
+    padding-top: 20%;
+    text-align: center;
+    margin-top: 0;
+    padding-bottom: 15%;
+
+}
+
+#hlink {
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    width: 100%;
+    font-size: 1.5em;
+    padding:2%;
+    margin-bottom: 0;
+}
+
+a {
+    margin: 100px;
+}
+
+
+
+h1, h2 {
+    margin: 10px 0;
+}
+.container {
+    background-color: azure;
+    max-width: 100%;
+    padding: 0 20px;
+}
+.about-me {
+    padding: 20%; 
+    line-height: 2em;}
+    
+#Projects {
+   padding:20%;
+}
+
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+  
+  #Toolkit {
+    padding: 20%;
+
+  }
+
+  table {
+    width: 100%;
+    text-align: center;
+  }
+
+  td {
+    padding: 2%;
+  }
